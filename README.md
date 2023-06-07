@@ -1,0 +1,3 @@
+# NOTE
+
+The repository is a REST server developed with Node.js and JavaScript that uses MySQL as a database, managed through the ORM (Object-Relational Mapping) called Sequelize. This server offers a complete solution to build and manage web services based on a RESTful architecture. The use of Sequelize facilitates the interaction with the MySQL database, providing an abstraction layer that simplifies queries and CRUD (Create, Read, Update and Delete) operations.
